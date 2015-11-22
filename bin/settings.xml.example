@@ -1,0 +1,5 @@
+<settings>
+	<eth002ip>insert-your-eth002-ip-address-here</eth002ip>
+	<eth002port>17494</eth002port>
+	<eth002pass>insert-your-eth002-password-here</eth002pass>
+</settings>
